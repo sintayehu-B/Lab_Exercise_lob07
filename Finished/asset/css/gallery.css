@@ -1,0 +1,11 @@
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 48px;     
+    height: 4px;
+    margin: 10px;
+    text-indent: 0;
+    cursor: pointer;
+    border-radius: 2px;
+        }
+    
